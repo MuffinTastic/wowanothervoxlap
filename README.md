@@ -1,6 +1,6 @@
 # wowanothervoxlap
 
-This repo contains all of the code I wrote while working with Ken Silverman's VOXLAP engine.
+This repo contains all of the code I wrote while working with Ken Silverman's VOXLAP engine in 2017.
 
 Provided as-is; do not expect tech support or easy compilation.
 
