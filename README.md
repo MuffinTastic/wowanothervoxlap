@@ -8,9 +8,13 @@ Provided as-is; do not expect tech support or easy compilation.
 
 For voxscript and voxscript1024, a small test fusing AngelScript and VOXLAP. No networking capabilities, and in general pretty limited.
 
+[Video](https://www.youtube.com/watch?v=4AwtolJfShU)
+
 ## aosclone
 
 My first C++ project ever: A VOXLAP-based client for Ace of Spades. It has some issues which definitely show, but it was pretty cool.
+
+[Video](https://www.youtube.com/watch?v=Blfyd0LSqZU)
 
 ## Other subdirectories
 
