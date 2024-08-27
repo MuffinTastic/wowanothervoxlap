@@ -1,0 +1,28 @@
+vxl\untitled.vxl
+png\toonsky.jpg
+ Map by Ken Silverman
+KV6\DESKLAMP.KV6,667,529,102,.229191,-.329646,0,.329646,.229191,0,0,0,.40149
+ your average desklamp
+KV6\DESKLAMP.KV6,722,586,36,0,.25,0,-.25,0,0,0,0,.25
+ a tiny desklamp
+KV6\JOYSTICK.KV6,794,362,120,-.39388,.307991,0,-.307991,-.39388,0,0,0,.5
+ a useless joystick
+KV6\DOOR.KV6,765,511,102,-.388,0,0,0,-.388,0,0,0,.388
+ 90 800
+KV6\DOOR.KV6,718,511,102,.388,0,0,0,-.388,0,0,0,.388
+ 90 800
+KV6\TNTBUNDL.KV6,588,495,121.5,.5,0,0,0,.5,0,0,0,.5
+ some stupid dynamite
+KV6\BARREL.KV6,698,390,118,.35,0,0,0,.35,0,0,0,.35
+ a strategically placed tnt barrel :)
+KV6\BARREL.KV6,538,272,228,.0625,0,0,0,.0625,0,0,0,.0625
+ Very good! You found the mini-tnt!
+KV6\CACO.KV6,379,194,114,.5,0,0,0,.5,0,0,0,.5
+ a really scary monster (lol!)
+KV6\WORM.KV6,767,127,114,.5,0,0,0,.5,0,0,0,.5
+ Worm that says "die!" excessively
+KV6\BARREL.KV6,537,352,81,0,.35,0,-.35,0,0,0,0,.35
+ How did this get here!
+KV6\ANASPLIT.KFA,738,363,101,.214813,0,0,0,.214813,0,0,0,.214813
+ just a test
+end

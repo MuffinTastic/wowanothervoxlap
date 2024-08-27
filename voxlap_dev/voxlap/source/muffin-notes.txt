@@ -1,0 +1,10 @@
+voxlap5 requires assembly to function.
+if you're using visual studio 2013 or eclipse, there are plugins out there for MASM. use that to compile v5.asm.
+
+window-related stuff (input, sound, screen, etc) are in WINMAIN.CPP/sysmain.h
+platform-independant voxlap engine is in voxlap5.c/voxlap5.h, v5.asm.
+kplib deals with filesystem stuff (even from zips!), that might be useful too.
+
+if you make anything, be sure to credit ken silverman, and possibly email him about it!
+
+extension/ is just some simple wrappers around lpoint3d, point3d and dpoint3d that I made. nothing too special.

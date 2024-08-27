@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="kplib.c">
+      <Filter>engine</Filter>
+    </ClCompile>
+    <ClCompile Include="voxlap5.c">
+      <Filter>engine</Filter>
+    </ClCompile>
+    <ClCompile Include="sdlmain.cpp">
+      <Filter>engine</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="kplib.h">
+      <Filter>engine</Filter>
+    </ClInclude>
+    <ClInclude Include="ksnippits.h">
+      <Filter>engine</Filter>
+    </ClInclude>
+    <ClInclude Include="porthacks.h">
+      <Filter>engine</Filter>
+    </ClInclude>
+    <ClInclude Include="sysmain.h">
+      <Filter>engine</Filter>
+    </ClInclude>
+    <ClInclude Include="voxlap5.h">
+      <Filter>engine</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="engine">
+      <UniqueIdentifier>{e8eb20c5-b20f-486f-92f5-71e31d1e267c}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <MASM Include="v5.asm">
+      <Filter>engine</Filter>
+    </MASM>
+  </ItemGroup>
+</Project>

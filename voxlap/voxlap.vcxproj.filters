@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="voxlap\kplib.c">
+      <Filter>engine</Filter>
+    </ClCompile>
+    <ClCompile Include="voxlap\voxlap5.c">
+      <Filter>engine</Filter>
+    </ClCompile>
+    <ClCompile Include="voxlap\WINMAIN.CPP">
+      <Filter>engine</Filter>
+    </ClCompile>
+    <ClCompile Include="voxlap\extension\DoubleVector3D.cpp">
+      <Filter>extension</Filter>
+    </ClCompile>
+    <ClCompile Include="voxlap\extension\FloatVector3D.cpp">
+      <Filter>extension</Filter>
+    </ClCompile>
+    <ClCompile Include="voxlap\extension\LongVector3D.cpp">
+      <Filter>extension</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="voxlap\kplib.h">
+      <Filter>engine</Filter>
+    </ClInclude>
+    <ClInclude Include="voxlap\ksnippits.h">
+      <Filter>engine</Filter>
+    </ClInclude>
+    <ClInclude Include="voxlap\porthacks.h">
+      <Filter>engine</Filter>
+    </ClInclude>
+    <ClInclude Include="voxlap\sysmain.h">
+      <Filter>engine</Filter>
+    </ClInclude>
+    <ClInclude Include="voxlap\voxlap.h">
+      <Filter>engine</Filter>
+    </ClInclude>
+    <ClInclude Include="voxlap\voxlap5.h">
+      <Filter>engine</Filter>
+    </ClInclude>
+    <ClInclude Include="voxlap\extension\DoubleVector3D.h">
+      <Filter>extension</Filter>
+    </ClInclude>
+    <ClInclude Include="voxlap\extension\FloatVector3D.h">
+      <Filter>extension</Filter>
+    </ClInclude>
+    <ClInclude Include="voxlap\extension\LongVector3D.h">
+      <Filter>extension</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="engine">
+      <UniqueIdentifier>{e8eb20c5-b20f-486f-92f5-71e31d1e267c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="extension">
+      <UniqueIdentifier>{2a90d0eb-8e58-44ae-b174-e88ebce88c3a}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <MASM Include="voxlap\v5.asm">
+      <Filter>engine</Filter>
+    </MASM>
+  </ItemGroup>
+</Project>

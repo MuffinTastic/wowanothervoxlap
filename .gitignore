@@ -1,0 +1,7 @@
+*.obj
+*.tlog
+*.log
+*.sdf
+.vs
+**/vc120.idb
+**/vc120.pdb

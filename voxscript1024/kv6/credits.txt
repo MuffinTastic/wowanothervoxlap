@@ -1,0 +1,2 @@
+gun.kv6 is a modified version of http://gamebanana.com/skins/download/118460
+i would have made the model myself but i'm not really great at that :P

@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "voxlap", "voxlap\voxlap.vcxproj", "{461B03CA-6748-4497-A143-B9E8D9468F69}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "voxtest", "voxtest\voxtest.vcxproj", "{60DEB85C-836B-4092-993E-0536476162A4}"
+	ProjectSection(ProjectDependencies) = postProject
+		{461B03CA-6748-4497-A143-B9E8D9468F69} = {461B03CA-6748-4497-A143-B9E8D9468F69}
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "aosclone", "aosclone\aosclone.vcxproj", "{23E30879-E0D4-4589-9D12-AD9D49C316BC}"
+	ProjectSection(ProjectDependencies) = postProject
+		{461B03CA-6748-4497-A143-B9E8D9468F69} = {461B03CA-6748-4497-A143-B9E8D9468F69}
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "angelscript_test", "angelscript_test\angelscript_test.vcxproj", "{C480C3DE-912E-496F-831A-006E7772D8A8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{461B03CA-6748-4497-A143-B9E8D9468F69}.Debug|Win32.ActiveCfg = Debug|Win32
+		{461B03CA-6748-4497-A143-B9E8D9468F69}.Debug|Win32.Build.0 = Debug|Win32
+		{461B03CA-6748-4497-A143-B9E8D9468F69}.Release|Win32.ActiveCfg = Release|Win32
+		{461B03CA-6748-4497-A143-B9E8D9468F69}.Release|Win32.Build.0 = Release|Win32
+		{60DEB85C-836B-4092-993E-0536476162A4}.Debug|Win32.ActiveCfg = Debug|Win32
+		{60DEB85C-836B-4092-993E-0536476162A4}.Debug|Win32.Build.0 = Debug|Win32
+		{60DEB85C-836B-4092-993E-0536476162A4}.Release|Win32.ActiveCfg = Release|Win32
+		{60DEB85C-836B-4092-993E-0536476162A4}.Release|Win32.Build.0 = Release|Win32
+		{23E30879-E0D4-4589-9D12-AD9D49C316BC}.Debug|Win32.ActiveCfg = Debug|Win32
+		{23E30879-E0D4-4589-9D12-AD9D49C316BC}.Debug|Win32.Build.0 = Debug|Win32
+		{23E30879-E0D4-4589-9D12-AD9D49C316BC}.Release|Win32.ActiveCfg = Release|Win32
+		{23E30879-E0D4-4589-9D12-AD9D49C316BC}.Release|Win32.Build.0 = Release|Win32
+		{C480C3DE-912E-496F-831A-006E7772D8A8}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C480C3DE-912E-496F-831A-006E7772D8A8}.Debug|Win32.Build.0 = Debug|Win32
+		{C480C3DE-912E-496F-831A-006E7772D8A8}.Release|Win32.ActiveCfg = Release|Win32
+		{C480C3DE-912E-496F-831A-006E7772D8A8}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {02755FF3-5DEC-42C3-820E-B05CD045ACF8}
+	EndGlobalSection
+EndGlobal

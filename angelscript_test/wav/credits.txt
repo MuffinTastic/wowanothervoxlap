@@ -1,0 +1,2 @@
+explode.wav -- voxlap's "game.exe" demo / ken silverman
+gun_fire.wav -- quake railgun firing sound :)

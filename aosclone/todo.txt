@@ -1,0 +1,17 @@
+Bugs:
+    Dead player bounce
+    Dead player camera
+    Grenade trajectory doesn't match classic
+    Weapon spread algorithm doesn't match classic
+    falling blocks misscalculation (arena barriers not falling completely and babel platform falling 
+    insane apoc sound and block breaking in general
+    custom files in general are bound not to work properly (specialy sounds)
+    crash upon approach to tow with low resolution
+
+Missing features:
+    Particles
+    Display scope image according to current weapon
+    Display player, tent, and intel icons on full map and minimap
+    Block color picker
+    showing the other side of the map at mapborder
+    possible fov slider?

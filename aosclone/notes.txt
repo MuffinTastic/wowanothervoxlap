@@ -1,0 +1,9 @@
+Suggestions:
+	make maps 128 blocks high
+
+
+Todo:
+	//implement AoS-style lighting. -- Done!
+		Diagonal (y++ z++ x==) lighting, shadow increment maxes to 10 blocks
+		//Process is most likely going to be cpu clock expensive - limit to -64 - +64 XY range on player pos every 5s!
+		not very true :S it causes a frame of lag but it's fine
