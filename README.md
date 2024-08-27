@@ -39,6 +39,4 @@ Test assets from Ken Silverman's VOXLAP downloads.
 
 ## License
 
-MIT unless otherwise stated. (for example, in the included boost library... which I don't actually remember if I ever used or not...)
-
-For more detail refer to the LICENSE file.
+MIT unless otherwise stated. For more detail refer to the LICENSE file.
